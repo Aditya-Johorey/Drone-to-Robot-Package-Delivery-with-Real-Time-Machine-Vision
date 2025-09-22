@@ -1,0 +1,8 @@
+bool start_mission
+---
+int16 package_x
+int16 package_y
+---
+int16 drone_x
+int16 drone_y
+int16 drone_z
